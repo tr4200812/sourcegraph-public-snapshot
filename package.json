@@ -282,7 +282,7 @@
     "@connectrpc/connect-query": "^1.4.1",
     "@connectrpc/connect-web": "^1.4.0",
     "@date-fns/utc": "^1.1.1",
-    "@graphiql/react": "^0.10.0",
+    "@graphiql/react": "^0.26.2",
     "@lezer/common": "^1.0.0",
     "@lezer/highlight": "^1.0.0",
     "@mdi/js": "7.1.96",
